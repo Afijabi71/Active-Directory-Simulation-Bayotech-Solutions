@@ -60,7 +60,7 @@ Created using **Active Directory Users and Computers**:
 
 ```
 Bayotech.com
-├── OU: Atlanta IT Department
+├── OU: Atlanta
 │   └── Users: Jsmith_ITATL
 │   └── Users: Jdoe_IT
 │
