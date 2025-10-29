@@ -10,7 +10,7 @@ This project is the deployment of a Windows Server Domain Controller (Active Dir
 
 - 1 × Windows Server (AD Domain Controller)
 - 1 × Windows 8 Client PC (IT Department)
-- 1 × Windows 7 Client PC (Sales Department)
+- 1 × Windows 8 Client PC (Sales Department)
 
 ---
 
@@ -62,10 +62,10 @@ Created using **Active Directory Users and Computers**:
 Bayotech.com
 ├── OU: Atlanta
 │   └── Users: Jsmith_ITATL
-│   └── Users: Jdoe_IT
-│
-├── OU: Sales
-│   └── Users:
+
+
+├── OU: UK
+│   └── Users:Branson_saleUK
 ```
 
 ---
@@ -80,8 +80,9 @@ Created and linked using **Group Policy Management Console (gpmc.msc)**:
   - `Computer Configuration` → `Administrative Templates` → `Start Menu and Taskbar`
   - Set **"Remove and prevent access to the Shut Down, Restart, Sleep, and Hibernate commands"** to **Enabled**
 
+
 **Result:**  
-Prevents domain users from shutting down, restarting, or putting the system to sleep — enforcing controlled access and reducing unauthorized system downtime.
+Prevents domain users from shutting down, restarting, or putting the system to sleep — enforcing controlled access and reducing unauthorized system downtime in Atlanta OU.
 
 ---
 
