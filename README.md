@@ -88,9 +88,9 @@ Prevents domain users from shutting down, restarting, or putting the system to s
 
 ## Screenshots
 
-- AD Domain Structure  
-- GPO Editor Screenshot  
-- PC Joined to Domain  
+- [AD Domain Structure](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/OUs_Group_and_Users.png)
+- [GPO Editor Screenshot](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Group_policy_management.png)
+- [PC Joined to Domain](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Windows_machine_connection.png)
 - [Result of Denied Shutdown command access System](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Access_denied_1.png)
 ---
 
