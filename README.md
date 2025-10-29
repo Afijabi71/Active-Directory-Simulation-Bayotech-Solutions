@@ -91,8 +91,7 @@ Prevents domain users from shutting down, restarting, or putting the system to s
 - AD Domain Structure  
 - GPO Editor Screenshot  
 - PC Joined to Domain  
-- [Result of Denied Shutdown command access System](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Access_denied_1.pnghttps://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Access_denied_2.png)
-
+- [Result of Denied Shutdown command access System](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/blob/main/Screenshots/Access_denied_1.png)
 ---
 
 ## Key Takeaways
